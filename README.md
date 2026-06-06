@@ -1,21 +1,20 @@
 # 3D Glass Horizon PFD ✈️
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/3d-glass-horizon-pfd?style=for-the-badge&logo=github&color=00ff66&logoColor=000000" alt="Stars">
-  <img src="https://img.shields.io/github/forks/yourusername/3d-glass-horizon-pfd?style=for-the-badge&logo=git&color=ffaa00&logoColor=000000" alt="Forks">
-  <img src="https://img.shields.io/github/license/yourusername/3d-glass-horizon-pfd?style=for-the-badge&logo=opensourceinitiative&color=1e293b" alt="License">
+  <a href="https://instagram.com/guicarvalho_86" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-guicarvalho__86-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:guicarvalho8492@gmail.com">
+    <img src="https://img.shields.io/badge/Email-guicarvalho8492@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://discord.com/users/Xen0void.v3" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Guilherme%20Carvalho-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <img src="https://img.shields.io/badge/License-MIT-1e293b?style=for-the-badge" alt="License">
 </p>
 
 <p align="center">
   A high-fidelity, modern Primary Flight Display (PFD) and artificial horizon designed for web browsers. Utilizing Three.js for smooth 3D rendering and realistic spatial behavior, this instrument recreates a premium glass-cockpit experience with real-time physics, dynamic telemetries, and responsive mobile gyroscope binding.
-</p>
-
----
-
-## 🕹️ System in Action
-
-<p align="center">
-  <img src="https://media.giphy.com/media/your-live-demo-gif/giphy.gif" width="480" alt="Animated Glass Horizon Demo" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.5);">
 </p>
 
 ---
