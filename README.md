@@ -2,15 +2,15 @@
 
 <p align="center">
   <a href="https://instagram.com/guicarvalho_86" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-guicarvalho__86-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/instagram-guicarvalho__86-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:guicarvalho8492@gmail.com">
-    <img src="https://img.shields.io/badge/Email-guicarvalho8492@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/email-guicarvalho8492@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://discord.com/users/Xen0void.v3" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Guilherme%20Carvalho-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/discord-Guilherme%20Carvalho-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <img src="https://img.shields.io/badge/License-MIT-1e293b?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/license-MIT-1e293b?style=for-the-badge" alt="License">
 </p>
 
 <p align="center">
